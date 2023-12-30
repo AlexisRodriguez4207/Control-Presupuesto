@@ -1,8 +1,14 @@
-# React + Vite
+# Planificador de Gastos con React + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Inicio De paginas</h2>
 
-Currently, two official plugins are available:
+![image](https://github.com/AlexisRodriguez4207/Control-Presupuesto/assets/76824745/a1f0d504-54b2-49c3-97bd-daf5af14c97a)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Vista de Presupuesto</h2>
+
+![image](https://github.com/AlexisRodriguez4207/Control-Presupuesto/assets/76824745/838521fe-7ea3-40fe-b5d9-c6054f9ac0ca)
+
+<h2>Ingreso de Gastos</h2>
+
+![image](https://github.com/AlexisRodriguez4207/Control-Presupuesto/assets/76824745/b3a4db52-9dae-4a91-835f-b0ef5fe66354)
+
